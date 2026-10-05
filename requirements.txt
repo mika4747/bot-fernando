@@ -1,0 +1,7 @@
+discord.py
+google-generativeai
+python-dotenv
+google-genai
+yt-dlp
+PyNaCl
+davey
